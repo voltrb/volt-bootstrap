@@ -1,4 +1,4 @@
-require "volt/bootstrap/version"
+require 'volt/bootstrap/version'
 
 class Volt
   class Bootstrap
