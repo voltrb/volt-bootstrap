@@ -1,4 +1,4 @@
-class Volt
+module Volt
   class Bootstrap
     # Your code goes here...
   end
